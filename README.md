@@ -1,3 +1,4 @@
 # productstar
 
-Experience-Salary.csv – Датасет для задачи по регрессионному анализу
+Experience-Salary.csv – датасет для задачи по регрессионному анализу
+StressLevelDataset.csv – датасет для задачи по факторному анализу анализу
